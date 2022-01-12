@@ -1,6 +1,5 @@
 services:
   cv:
     build: cv
-    scale: 1
     ports:
       - 80:80
