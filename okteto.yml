@@ -1,0 +1,6 @@
+name: cv
+# command:
+sync:
+  - cv:/src
+forward:
+  - 80:80
